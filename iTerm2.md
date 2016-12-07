@@ -70,7 +70,11 @@ Debes en cuando al usar la terminal solemos perder el cursor, con las funciones
 
 **Mouse Reporting**
 
+Con esta caracteristica podemos colocar el cursor en un linea, resaltar texto y realizar algunas otras funciones en programas como Vim.
+
 **Growl Support**
+
+Viene una opcion para recibir notificaciones Growl de actividad, campanas y mas, esto es funcional para dejar trabajando la terminal en segundo plano y al momento de terminar recibiremos una notificacion de actividad.
 
 **Exposé Tab**
 
@@ -90,8 +94,8 @@ Cuenta con soporte de internacionalizacion, incluye soporte para todos los plano
 
 **Triggers**
 
-Admite disparadores definidos por cada usuario, son acciones que se ejecutan cuando se recibe texto que coincide con una expresion regular, lo podemos usar para resaltar las palabras, responder automaticamente a las indicaciones, notificarle cuando suceda algo importante y mas.
+Admite disparadores definidos por cada usuario, son acciones que se ejecutan cuando se recibe texto que coincide con una expresion regular, lo podemos usar para resaltar las palabras, responder automaticamente a las indicaciones, notificar cuando suceda algo importante y mas.
 
 **Smart Selection**
 
-Podemos realizar selecciones inteligentes para resaltar direcciones URL, direccion de correo electronico, nombre de archivos y mas, reconociendo lo que esta debajo del cursor y eligiendo cuanto texto seleccionar.
+Puede realizar selecciones inteligentes para resaltar direcciones URL, direccion de correo electronico, nombre de archivos y mas, reconociendo lo que esta debajo del cursor y eligiendo cuanto texto seleccionar.
