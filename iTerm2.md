@@ -19,7 +19,7 @@ Ventana de acceso rapido a la terminal, podemos configurar una tecla para poder 
 
 **Search**
 
-iTerm2 viene con un gran buscador, asi evitamos la interfaz de usuario, destaca todo los resultados encontrados.
+iTerm2 viene con un gran buscador, asi evitamos la interfaz de usuario, y destaca todo los resultados encontrados.
 
 ![search](img/search.png)
 
@@ -32,7 +32,7 @@ Solo basta con escribir cualquier palabra que previamente aparecio en la ventana
 
 **Mouseless Copy**
 
-Podemos copiar sin usar el raton, usamos el burcador de texto  y buscamos algun texto que queremos copiar, presionamos la tecla "tab" para expandir la seleccion hacia la derecha o "shift" + "tab" para expandir la seleccion hacia la izquierda, luego "option" + "enter" pega el texto que coincide.
+Podemos copiar sin usar el raton, usamos el burcador de texto para esta caracteristica y buscamos algun texto que queremos copiar, presionamos la tecla "tab" para expandir la seleccion hacia la derecha o "shift" + "tab" para expandir la seleccion hacia la izquierda, luego "option" + "enter" pega el texto que coincide.
 
 **Paste History**
 
@@ -59,14 +59,14 @@ Podemos configurar cualquier tecla a cualquier funcion de iTerm2, se puede perso
 
 **256 Colors (or more!)**
 
-Con el modo 256 colores, la terminal es una mezcla de colores y cosas como el codigo cobra vida.
+Con el modo 256 colores, la terminal es una mezcla de colores, como que el codigo cobra vida.
 
 ![colors](img/colors.png)
 
 **Readability**
 
 Debes en cuando al usar la terminal solemos perder el cursor, con las funciones
-"Smart Cursor Color" y "Contraste minimo", aseguramos que estos problemas de perdida se han ido para siempre.
+"Smart Cursor Color" y "Minimal Contrast", aseguramos que estos problemas de perdida de cursor se vayan para siempre.
 
 **Mouse Reporting**
 
@@ -86,7 +86,7 @@ Muestra todas las pestañas en una sola pantalla, y al mismo tiempo realizar una
 
 iTerm2 proporciona una base de datos de perfiles y una busqueda de los mismos, esta funcion es util si queremos tener diversar configuraciones almecenadas e identificadas.
 
-![profiles](img/profiles.png)
+![profiles](img/Profiles.png)
 
 **Multi-Lingual**
 
