@@ -11,7 +11,7 @@ Es usado para almacenar archivos y directorios en un solo archivo, no para compr
 
 ** Ejemplos de opciones más usadas **
 
-| Actividad	| /Opción |	Ejemplo      |
+| Actividad	| Opción |	Ejemplo      |
 |-----------|--------|---------------|
 |descomprimir/extraer	| -x	| tar -xf paquete.tar|
 |visualizar lo que se realiza	|-v|	tar -xvf paquete.tar|
